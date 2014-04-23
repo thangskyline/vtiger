@@ -84,10 +84,10 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL = 'http://localhost/igrow/';
+$site_URL = 'http://toitutin/igrow/';
 
 // root directory path
-$root_directory = 'D:\xampp\htdocs\igrow/';
+$root_directory = '/opt/lampp/htdocs/igrow/';
 
 // cache direcory path
 $cache_dir = 'cache/';
